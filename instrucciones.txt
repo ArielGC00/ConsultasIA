@@ -1,0 +1,8 @@
+1.Abrir el cmd ir a la ruta del proyecto 
+2.Escribir en la terminal npm install (esto instala las dependencias necesarias)
+3.en la terminal npm run dev -- --port 3001 (esto abre el archivo en el puerto 3001)
+
+Notas: Se tiene que abrir en el puerto 3001 porque es un proyecto aparte y el puerto predeterminado (3000) lo utiliza
+el proyecto principal
+ 
+<3
